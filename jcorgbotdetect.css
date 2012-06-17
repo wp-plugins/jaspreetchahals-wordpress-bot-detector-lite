@@ -1,0 +1,12 @@
+.jcorgbinfo, .jcorgbsuccess, .jcorgbwarning, .jcorgberror, .jcorgbvalidation,.jcorgbannouncement 
+{ border: 1px solid #ccc; margin:0px; padding:15px 10px 15px 50px; background-repeat: no-repeat; background-position: 10px center;font-size:12px;}
+.jcorgbannouncement {background-color: #f8f8f8;background-image: url('images/announce.png');padding:5px 5px 5px 50px; border: 1px solid #f4f4f4;}
+.jcorgbannouncement h3 {color:#990A0A}
+.jcorgbinfo {background-image: url('images/information.png');}
+.jcorgbsuccess {background-image:url('images/check.png');}
+.jcorgbwarning {color: #666;background-image: url('images/warning.png');}
+.jcorgberror {color: #B70000;border: 1px solid  #FEE7D8;background-image: url('images/stop.png');}
+.jcorgb-errors-title {font-size:12px;color:black;font-weight:bold;}
+.jcorgb-errors { border: #FFD7C4 1px solid;padding:5px; background: #FFF1EA;}
+.jcorgb-errors ul {list-style:none; color:black; font-size:12px;margin-left:10px;}
+.jcorgb-errors ul li {list-style:circle;line-height:150%;/*background: url(/images/icons/star_red.png) no-repeat left;*/font-size:11px;margin-left:10px; margin-top:5px;font-weight:normal;padding-left:15px}
