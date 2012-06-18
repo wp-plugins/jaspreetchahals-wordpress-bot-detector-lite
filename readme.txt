@@ -4,6 +4,7 @@ Plugin URI: http://jaspreetchahal.org/wordpress-bot-detection-plugin-lite
 Donate link:  http://jaspreetchahal.org/wordpress-bot-detection-plugin-lite
 Tags: alexa, bing, google, crawler, bot, seo, email notifications, statistics, stats, googlebot, google bot, crawl data
 Requires at least: 3.3.0
+Version: 1.0
 Tested up to: 3.3.2
 Stable tag: 1.0
 
