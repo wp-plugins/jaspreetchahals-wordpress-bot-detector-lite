@@ -3,9 +3,9 @@ Contributors: Jaspreet Chahal
 Plugin URI: http://jaspreetchahal.org/wordpress-bot-detection-plugin-lite
 Donate link:  http://jaspreetchahal.org/wordpress-bot-detection-plugin-lite
 Tags: alexa, bing, google, crawler, bot, seo, email notifications, statistics, stats, googlebot, google bot, crawl data
-Requires at least: 3.3.0
+Requires at least: 2.8
 Version: 1.0
-Tested up to: 3.3.2
+Tested up to: 3.4
 Stable tag: 1.0
 
 This plugin detects a few bots (e.g. Google, Google ads, Alta vista etc) and sends an email based on interval set by you. you can choose what format email you would like to recieve i.e. html or text. 
