@@ -5,6 +5,7 @@
     Plugin URI: http://jaspreetchahal.org/wordpress-bot-detection-plugin-lite
     Description: This plugin does what the title says. It identifies Bots and send you an email about the bot activity. 
     Author: Jaspreet Chahal
+    Version: 1.0
     Author URI: http://jaspreetchahal.org
     License: GPLv2 or later
     */
