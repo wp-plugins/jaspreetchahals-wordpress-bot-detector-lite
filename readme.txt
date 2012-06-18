@@ -16,7 +16,10 @@ This plugin tracks most common bots like Alexa, Alta vista, Google, Yahooseeker 
 It detects the page being crawled and maintains a history. 
 An email is sent to admin notifying which pages has been crawled.
 
-You can follow me on Twitter https://twitter.com/jschahal or like my facebook page http://www.facebook.com/jaspreetchahal.org to get updates on other plugins and boring stuff that I do.
+You can follow me on Twitter https://twitter.com/jschahal or 
+like my facebook page http://www.facebook.com/jaspreetchahal.org to get updates on some not so exciting things that I do.
+
+Visit my site http://jaspreetchahal.org to get help on this plugin or more precisely go to http://jaspreetchahal.org/wordpress-bot-detection-plugin-lite. 
 
 
 
